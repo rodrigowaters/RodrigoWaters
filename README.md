@@ -5,3 +5,4 @@
 
 ### 📊 Github Status
 [![My Github Status](https://github-readme-stats.vercel.app/api?username=rodrigowaters&count_private=true&show_icons=true&line_height=27)](https://github.com/RodrigoWaters)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoWaters&show_icons=true&locale=en&layout=compact)](https://github.com/RodrigoWaters)
